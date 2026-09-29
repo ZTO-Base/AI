@@ -4,3 +4,7 @@ __pycache__
 .env
 
 *.joblib
+*.db
+
+data/raw
+data/test_data.txt
